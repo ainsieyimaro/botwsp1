@@ -1,0 +1,196 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '5491126815608@s.whatsapp.net',
+    fromMe: false,
+    id: '620BBFB07C7CDA9BA5299058B96AA72C',
+    participant: undefined
+  },
+  messageTimestamp: 1713332886,
+  pushName: '🌹',
+  broadcast: false,
+  message: Message {
+    conversation: 'ke',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'ke',
+  from: '5491126815608'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5491126815608@s.whatsapp.net',
+    fromMe: false,
+    id: '11F37EB328B9F244DE9B98BAA4235C81',
+    participant: undefined
+  },
+  messageTimestamp: 1713332892,
+  pushName: '🌹',
+  broadcast: false,
+  message: Message {
+    conversation: 'pa qué',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'pa qué',
+  from: '5491126815608'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5491126815608@s.whatsapp.net',
+    fromMe: false,
+    id: 'FF5A2B7B524D528F8968CF1311BA8D9F',
+    participant: undefined
+  },
+  messageTimestamp: 1713332894,
+  pushName: '🌹',
+  broadcast: false,
+  message: Message {
+    conversation: 'te mando dos',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'te mando dos',
+  from: '5491126815608'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5491126815608@s.whatsapp.net',
+    fromMe: false,
+    id: 'C7AD4B813D8FC72692DA97BFD23D9CB2',
+    participant: undefined
+  },
+  messageTimestamp: 1713332897,
+  pushName: '🌹',
+  broadcast: false,
+  message: Message {
+    conversation: '3',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '3',
+  from: '5491126815608'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5491126815608@s.whatsapp.net',
+    fromMe: false,
+    id: 'C179F2A725AAE5361E0547C801BCC7C7',
+    participant: undefined
+  },
+  messageTimestamp: 1713332899,
+  pushName: '🌹',
+  broadcast: false,
+  message: Message {
+    conversation: '5',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '5',
+  from: '5491126815608'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5491126815608@s.whatsapp.net',
+    fromMe: false,
+    id: '44149372112FC84EA6E0031E35B54C4A',
+    participant: undefined
+  },
+  messageTimestamp: 1713332906,
+  pushName: '🌹',
+  broadcast: false,
+  message: Message {
+    conversation: '7',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '7',
+  from: '5491126815608'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5491126815608@s.whatsapp.net',
+    fromMe: false,
+    id: '6A77D275245C9E494D63EA356C3F48FA',
+    participant: undefined
+  },
+  messageTimestamp: 1713332928,
+  pushName: '🌹',
+  broadcast: false,
+  message: Message {
+    conversation: 'q cosa',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'q cosa',
+  from: '5491126815608'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5491126815608@s.whatsapp.net',
+    fromMe: false,
+    id: '0313C6F028699B656CC639CBE89BE539',
+    participant: undefined
+  },
+  messageTimestamp: 1713332945,
+  pushName: '🌹',
+  broadcast: false,
+  message: Message {
+    stickerMessage: StickerMessage {
+      url: 'https://mmg.whatsapp.net/v/t62.15575-24/19268154_3534102206801723_1151823828278483749_n.enc?ccb=11-4&oh=01_Q5AaINOJ4OL2dt7Q5cWIfqVWzkoyJKACdOVOhiLgehvou9hx&oe=6646BD1A&_nc_sid=5e03e0&mms3=true',
+      fileSha256: [Uint8Array],
+      fileEncSha256: [Uint8Array],
+      mediaKey: [Uint8Array],
+      mimetype: 'image/webp',
+      height: 64,
+      width: 64,
+      directPath: '/v/t62.15575-24/19268154_3534102206801723_1151823828278483749_n.enc?ccb=11-4&oh=01_Q5AaINOJ4OL2dt7Q5cWIfqVWzkoyJKACdOVOhiLgehvou9hx&oe=6646BD1A&_nc_sid=5e03e0',
+      fileLength: [Long],
+      mediaKeyTimestamp: [Long],
+      firstFrameLength: 7342,
+      firstFrameSidecar: [Uint8Array],
+      isAnimated: true,
+      stickerSentTs: [Long],
+      isAvatar: false
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '_event_media__38e533b8-39be-41cd-a953-837bf8c2c732',
+  from: '5491126815608'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5491126815608@s.whatsapp.net',
+    fromMe: false,
+    id: 'DBAB3FAD00E01BBE60F1DB7A788A3F72',
+    participant: undefined
+  },
+  messageTimestamp: 1713333139,
+  pushName: '🌹',
+  broadcast: false,
+  message: Message {
+    conversation: 'j',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'j',
+  from: '5491126815608'
+}
